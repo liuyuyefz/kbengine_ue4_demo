@@ -1,14 +1,14 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #pragma once
-#include "ue4_scripts/GameModeDemoBase.h"
+#include "ue4_scripts/KGameModeBase.h"
 #include "GameModeSelectAvatar.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class KBENGINE_UE4_DEMO_API AGameModeSelectAvatar : public AGameModeDemoBase
+class KBENGINE_UE4_DEMO_API AGameModeSelectAvatar : public AKGameModeBase
 {
 	GENERATED_UCLASS_BODY()
 
