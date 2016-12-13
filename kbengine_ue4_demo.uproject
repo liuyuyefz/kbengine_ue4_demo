@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{9120450D-406E-67E7-B4DA-F18BA31C47DC}",
+	"EngineAssociation": "{AEE17D0B-487D-EF8F-2156-508745469190}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -11,6 +11,12 @@
 			"AdditionalDependencies": [
 				"Engine"
 			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "KBEnginePlugins",
+			"Enabled": true
 		}
 	]
 }
